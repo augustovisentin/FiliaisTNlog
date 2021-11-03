@@ -13,44 +13,62 @@
     },
     {
       "key" : "Campinas_1",
-      "name" : "VPN Campinas",
+      "name" : "VPN_pri Campinas",
       "latitude" : -22.965075,
       "longitude" : -47.104521
     },
     {
       "key" : "Campinas_2",
-      "name" : "VPN Campinas",
+      "name" : "VPN_sec Campinas",
       "latitude" : -22.950497,
       "longitude" : -47.317313
     },
     {
-      "key" : "Barueri",
-      "name" : "VPN Barueri",
-      "latitude" : -23.491571,
-      "longitude" : -46.830308
-    },
-    {
       "key" : "Santos_1",
-      "name" : "VPN Santos",
+      "name" : "VPN_pri Santos",
       "latitude" : -23.928214,
       "longitude" : -46.380538
     },
     {
       "key" : "Santos_2",
-      "name" : "VPN Santos",
+      "name" : "VPN_sec Santos",
       "latitude" : -24.005176,
       "longitude" : -46.475359
     },
     {
-      "key" : "Oracle",
-      "name" : "VPN Oracle",
-      "latitude" : -23.490777,
-      "longitude" : -46.829817
+      "key" : "Santos_dial_1",
+      "name" : "VPN_pri Santos_dial",
+      "latitude" : -23.790309,
+      "longitude" : -46.525240
     },
     {
-      "key" : "AWS",
-      "name" : "VPN AWS",
-      "latitude" : -23.493217,
-      "longitude" : -46.830731
+      "key" : "Santos_dial_2",
+      "name" : "VPN_sec Santos_dial",
+      "latitude" : -23.900263,
+      "longitude" : -46.694573
+    },
+    {
+      "key" : "Oracle_1",
+      "name" : "VPN_pri Oracle",
+      "latitude" : -23.491571,
+      "longitude" : -46.830308
+    },
+    {
+      "key" : "Oracle_2",
+      "name" : "VPN_sec Oracle",
+      "latitude" : -23.445403,
+      "longitude" : -46.894447
+    },
+    {
+      "key" : "AWS_1",
+      "name" : "VPN_pri AWS",
+      "latitude" : -23.771894,
+      "longitude" : -46.789530
+    },
+    {
+      "key" : "AWS_2",
+      "name" : "VPN_sec AWS",
+      "latitude" : -23.736637,
+      "longitude" : -46.581015
     }
   ]
