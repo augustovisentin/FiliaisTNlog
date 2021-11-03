@@ -1,0 +1,38 @@
+[
+    {
+      "key" : "Guarulhos",
+      "name" : "VPN Guarulhos",
+      "latitude" : -23.430662,
+      "longitude" : -46.473547
+    },
+    {
+      "key" : "Campinas",
+      "name" : "VPN Campinas",
+      "latitude" : -22.965075,
+      "longitude" : -47.104521
+    },
+    {
+      "key" : "Barueri",
+      "name" : "VPN Barueri",
+      "latitude" : -23.491571,
+      "longitude" : -46.830308
+    },
+    {
+      "key" : "Santos",
+      "name" : "VPN Santos",
+      "latitude" : -23.928214,
+      "longitude" : -46.380538
+    },
+    {
+      "key" : "Oracle",
+      "name" : "VPN Oracle",
+      "latitude" : -23.490777,
+      "longitude" : -46.829817
+    },
+    {
+      "key" : "AWS",
+      "name" : "VPN AWS",
+      "latitude" : -23.493217,
+      "longitude" : -46.830731
+    }
+  ]
