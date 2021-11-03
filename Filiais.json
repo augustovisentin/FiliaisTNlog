@@ -20,8 +20,8 @@
     {
       "key" : "Campinas_2",
       "name" : "VPN_sec Campinas",
-      "latitude" : -22.950497,
-      "longitude" : -47.317313
+      "latitude" : -23.064016,
+      "longitude" : -47.274739
     },
     {
       "key" : "Santos_1",
@@ -62,13 +62,13 @@
     {
       "key" : "AWS_1",
       "name" : "VPN_pri AWS",
-      "latitude" : -23.771894,
-      "longitude" : -46.789530
+      "latitude" : -24.032241,
+      "longitude" : -47.517551
     },
     {
       "key" : "AWS_2",
       "name" : "VPN_sec AWS",
-      "latitude" : -23.736637,
-      "longitude" : -46.581015
+      "latitude" : -24.200767,
+      "longitude" : -47.385804
     }
   ]
